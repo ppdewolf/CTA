@@ -1,7 +1,7 @@
 # CTA
 Controlled Tabular Adjustment
 
-Code can be obtained from
+Source code can be obtained from
 
 Jordi Castro  
 Department of Statistics and Operations Research  
